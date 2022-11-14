@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "cypress": "^10.10.0"
+  },
+  "scripts": {
+    "cy:run": "cypress run --headless --record --key 8583767c-b234-4ece-84b9-a6b380299f76"
+  }
+}
